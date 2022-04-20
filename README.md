@@ -24,4 +24,4 @@ This document is written in [Markdown](https://www.markdownguide.org/).  A cheat
 
 ## Document History
 
-History of the changes of this document can be found by hitting the history button in the top right corner.
+History of the changes of this document can be found by clicking on the `README.md` file, which will navigate to the document, then clicking the history button in the top right corner.
